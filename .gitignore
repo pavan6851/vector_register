@@ -1,0 +1,20 @@
+# Vivado generated folders
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+
+# Vivado project file
+*.xpr
+
+# Logs
+*.jou
+*.log
+*.str
+*.wcfg
+
+# Bitstreams
+*.bit
+*.bin
